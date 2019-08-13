@@ -4,12 +4,14 @@ My Protel 99 SE study
 ## PCB打样  
 * (todo) 捷配, 杭州    
 https://www.jiepei.com  
-* (not tested) 捷多邦, 深圳    
+* 捷多邦, 深圳    
 https://www.jdbpcb.com  
-* (not tested) 中信华  
+* 中信华  
 https://www.zxhgroup.com    
-* (not tested) 嘉立创, 深圳  
+* 嘉立创, 深圳  
 https://www.sz-jlc.com  
+* 华强PCB, 深圳  
+http://www.hqpcb.com  
 
 ## 硬件电路知识太多怎么破？看完这篇让小白的你不迷茫  
 https://www.eefocus.com/analog-power/369237  
