@@ -8,6 +8,8 @@ https://www.jiepei.com
 https://www.jdbpcb.com  
 * (not tested) 中信华  
 https://www.zxhgroup.com    
+* (not tested) 嘉立创, 深圳  
+https://www.sz-jlc.com  
 
 ## 硬件电路知识太多怎么破？看完这篇让小白的你不迷茫  
 https://www.eefocus.com/analog-power/369237  
