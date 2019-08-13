@@ -1,6 +1,14 @@
 # wmt_protel_study
 My Protel 99 SE study
 
+## PCB打样  
+* 捷配, 杭州    
+https://www.jiepei.com  
+* 捷多邦, 深圳    
+https://www.jdbpcb.com  
+* 中信华  
+https://www.zxhgroup.com    
+
 ## 硬件电路知识太多怎么破？看完这篇让小白的你不迷茫  
 https://www.eefocus.com/analog-power/369237  
 
@@ -18,3 +26,6 @@ https://www.jdbpcb.com
 https://unicraft-jp.com/gerberdata/  
 PCBE  
 https://www.vector.co.jp/soft/winnt/business/se056371.html  
+
+## DIY PCB电路板制作（简单方便快捷）  
+https://www.cnblogs.com/yuyuanfeng/p/6344979.html  
