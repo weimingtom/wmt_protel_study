@@ -2,11 +2,11 @@
 My Protel 99 SE study
 
 ## PCB打样  
-* 捷配, 杭州    
+* (todo) 捷配, 杭州    
 https://www.jiepei.com  
-* 捷多邦, 深圳    
+* (not tested) 捷多邦, 深圳    
 https://www.jdbpcb.com  
-* 中信华  
+* (not tested) 中信华  
 https://www.zxhgroup.com    
 
 ## 硬件电路知识太多怎么破？看完这篇让小白的你不迷茫  
