@@ -33,3 +33,6 @@ https://www.vector.co.jp/soft/winnt/business/se056371.html
 
 ## DIY PCB电路板制作（简单方便快捷）  
 https://www.cnblogs.com/yuyuanfeng/p/6344979.html  
+
+## PCB各层的含义 （solder paste 区别）  
+https://blog.csdn.net/zhanglianpin/article/details/44174423  
