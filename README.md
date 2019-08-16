@@ -36,3 +36,6 @@ https://www.cnblogs.com/yuyuanfeng/p/6344979.html
 
 ## PCB各层的含义 （solder paste 区别）  
 https://blog.csdn.net/zhanglianpin/article/details/44174423  
+
+## iCad 5.1.2 导入元件库、封装库和3D模型  
+https://blog.csdn.net/toopoo/article/details/89856806  
