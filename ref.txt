@@ -1,0 +1,10 @@
+(1)
+https://randomnerdtutorials.com/build-an-all-in-one-esp32-weather-station-shield/
+https://github.com/RuiSantosdotme/ESP32-Weather-Shield-PCB
+https://gitee.com/weimingtom/ESP32-Weather-Shield-PCB
+
+(2)
+https://github.com/aspro648/Arduino
+https://www.tindie.com/products/MakersBox/diy-ardu-arduino-compatible-clone/
+https://gitee.com/weimingtom/aspro648_Arduino
+
