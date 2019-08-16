@@ -18,3 +18,7 @@ https://github.com/jonbuford/kicad-library
 (5) stm32f401retx
 https://github.com/davemckelvie/pihat-led-display  
 https://gitee.com/weimingtom/pihat-led-display
+
+(6) 
+https://github.com/KuguHome/amber-wmbus-HAT  
+https://gitee.com/weimingtom/amber-wmbus-HAT
