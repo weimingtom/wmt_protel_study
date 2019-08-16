@@ -10,3 +10,7 @@ https://gitee.com/weimingtom/aspro648_Arduino
 
 (3) 
 https://hackaday.io/project/118594-ardubuino
+
+(4) 
+https://gitee.com/weimingtom/kicad-library  
+https://github.com/jonbuford/kicad-library
