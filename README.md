@@ -44,3 +44,6 @@ https://blog.csdn.net/toopoo/article/details/89856806
 ## KiCad版本嘉立创SMT贴片库及问题说明  
 http://club.szlcsc.com/article/details_36703_1_3.html  
 https://github.com/xtoolbox/lc_kicad_lib  
+
+## 【KiCad中文教程】如何画PCB和生成gerber文件  
+https://mrs.pub/elecjc/2311.html   
