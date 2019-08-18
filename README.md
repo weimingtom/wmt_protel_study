@@ -40,3 +40,7 @@ https://blog.csdn.net/zhanglianpin/article/details/44174423
 
 ## iCad 5.1.2 导入元件库、封装库和3D模型  
 https://blog.csdn.net/toopoo/article/details/89856806  
+
+## KiCad版本嘉立创SMT贴片库及问题说明  
+http://club.szlcsc.com/article/details_36703_1_3.html  
+https://github.com/xtoolbox/lc_kicad_lib  
