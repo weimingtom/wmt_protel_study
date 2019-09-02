@@ -47,3 +47,6 @@ https://github.com/xtoolbox/lc_kicad_lib
 
 ## 【KiCad中文教程】如何画PCB和生成gerber文件  
 https://mrs.pub/elecjc/2311.html   
+
+## Kicad Tutorial: Gerber file generation  
+https://www.wayneandlayne.com/blog/2013/02/27/kicad-tutorial-gerber-file-generation/  
