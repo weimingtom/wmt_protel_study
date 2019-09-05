@@ -1,5 +1,5 @@
 # wmt_protel_study
-My Protel 99 SE study
+My Protel 99 SE and KiCad study  
 
 ## PCB打样  
 * 捷配, 杭州/安徽宣城  
