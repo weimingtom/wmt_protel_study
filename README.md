@@ -52,3 +52,6 @@ https://mrs.pub/elecjc/2311.html
 
 ## Kicad Tutorial: Gerber file generation  
 https://www.wayneandlayne.com/blog/2013/02/27/kicad-tutorial-gerber-file-generation/  
+
+## KiCAD教程（15），生成网络表盒、PCB边框设计及安装孔设置  
+http://bbs.elecfans.com/jishu_1109661_1_1.html  
