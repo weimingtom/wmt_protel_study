@@ -55,3 +55,6 @@ https://www.wayneandlayne.com/blog/2013/02/27/kicad-tutorial-gerber-file-generat
 
 ## KiCAD教程（15），生成网络表盒、PCB边框设计及安装孔设置  
 http://bbs.elecfans.com/jishu_1109661_1_1.html  
+
+## 立创EDA使用教程  
+https://docs.lceda.cn/cn/FAQ/Editor/index.html  
