@@ -16,6 +16,10 @@ http://www.hqpcb.com
 * 快捷PCB，杭州/安徽宣城(todo)    
 http://www.kjpcb.com.cn  
 
+## 基于网页的PCB软件  
+* https://easyeda.com  
+* https://www.pcbweb.com  
+
 ## 硬件电路知识太多怎么破？看完这篇让小白的你不迷茫  
 https://www.eefocus.com/analog-power/369237  
 
