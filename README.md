@@ -66,3 +66,6 @@ https://docs.lceda.cn/cn/FAQ/Editor/index.html
 ## oshwhub  
 https://oshwhub.com  
 
+## femtoduino  
+https://github.com/femtoduino/femto-beacon  
+
